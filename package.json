@@ -1,0 +1,23 @@
+{
+  "name": "reactthree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhijunSong/reactthree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhijunSong/reactthree/issues"
+  },
+  "homepage": "https://github.com/ZhijunSong/reactthree#readme",
+  "dependencies": {
+    "@react-three/fiber": "^8.0.12",
+    "@react-three/xr": "^3.5.0"
+  }
+}
